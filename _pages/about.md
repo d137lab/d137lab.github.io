@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "D137 Lab - Embedded Systems and Biomedical Instrumentation Laboratory"
+excerpt: "University of Zagreb, Faculty of Electrical Engineering and Computing"
 author_profile: true
-header.image: "https://mmistakes.github.io/minimal-mistakes/assets/images/mm-home-page-feature.jpg"
+header:
+ <!-- overlay_image: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-home-page-feature.jpg -->
+ overlay_color: "#22346c"
 redirect_from: 
   - /about/
   - /about.html
